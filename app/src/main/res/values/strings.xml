@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SqliteApp1</string>
+    <string name="name">Nombre</string>
+    <string name="data">Dato</string>
+    <string name="save">Registrar</string>
+    <string name="delete">Eliminar</string>
+    <string name="view">Consultar</string>
+    <string name="update">Actualizar</string>
+</resources>
